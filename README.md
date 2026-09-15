@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jasonbitsmith/jasonbitsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Jason 数字生活
 
-Here are some ideas to get you started:
+**AI 实践 · 实用工具 · 数字生活**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+把好奇心变成小项目，把折腾经验变成可复用的指南。
+
+</div>
+
+---
+
+### 关于我
+
+你好，我是 Jason。一名边学边做的技术探索者，喜欢尝试 AI、搭建 VPS，也喜欢让日常生活更方便的小工具。
+
+这里记录我的动手实践、学习笔记，以及那些从「想试试」开始的小项目。
+
+### 🧭 正在探索
+
+| 方向 | 想做的事 |
+| :--- | :--- |
+| 🤖 AI 实践 | 把常用流程整理成 AI Skills，让经验可以重复使用 |
+| ☁️ VPS 与自托管 | 记录服务器搭建、配置与排错过程 |
+| 🛠️ 实用工具 | 从日常需求出发，做简单、有用的小工具 |
+| 📝 数字生活 | 分享工具使用心得，整理踩过的坑与解决办法 |
+
+### 🌱 项目起点
+
+**VPS 搭建 Skill · 待整理发布**
+
+把自己做过的 VPS 搭建流程整理成可分享的 Skill，补充使用说明、配置示例和验证步骤。
+
+### 💡 我希望这里的项目
+
+- **容易上手**：把准备工作和使用步骤写清楚。
+- **如实记录**：说明测试环境和已知限制。
+- **持续改进**：从一个小需求开始，边用边完善。
+
+---
+
+<div align="center">
+
+**学一点，做一点，分享一点。**
+
+<sub>Learning by building · Sharing along the way</sub>
+
+</div>

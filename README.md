@@ -8,6 +8,14 @@
 
 </div>
 
+### 📬 找到我
+
+欢迎交流 AI 实践、VPS 搭建与数字生活。
+
+- **𝕏**：[EvanWritesX](https://x.com/EvanWritesX)
+- **Telegram**：[@EvanCreates](https://t.me/EvanCreates)
+
+
 ---
 
 ### 关于我

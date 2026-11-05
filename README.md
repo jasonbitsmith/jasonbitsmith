@@ -39,7 +39,7 @@
 
 把自己做过的 VPS 搭建流程整理成可分享的 Skill，补充使用说明、配置示例和验证步骤。
 
-### 📝 推广长文
+### 🧩 Google 浏览器插件
 
 - [推文排版 TidyPost](posts/tidypost.md) — X 发帖排版助手推广长文
 - [汇率透镜 PriceLens](posts/pricelens.md) — 网页外币价格换算推广长文
